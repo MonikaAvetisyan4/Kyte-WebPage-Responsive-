@@ -1,0 +1,141 @@
+@media screen and  (max-width: 600px)
+{
+  .ten div{
+    padding-top: 10px;
+    align-items: center;
+    display: flex;
+    flex-direction: column
+  }
+	.first h1 {
+    font-size: 25px;
+    }
+    .first h3 {
+    font-size: 20px;
+    }
+    .first{
+    	padding-left: 0;
+    	padding-right: 0;
+    }
+    .ten{
+    	padding-right: 0; 
+    	 padding-left: 0;
+    }
+    .ten div{
+    	padding-right: 0; 
+    	 padding-left: 0;
+    }
+    .second h4 {
+    font-size: 20px;
+    margin: 0 auto;
+
+    }
+  .third h3 {
+    font-size: 15px;
+    text-align: center;
+    font-weight: 600;
+    padding-top: 10px
+   }
+  .klor-nkar {
+    padding-top: 20px
+
+   }
+   .third p{
+   	text-align: center
+   }
+   .sixth h5 {
+    padding-top: 20px;
+   }
+   .shat-nkarner{
+   	padding-top: 20px
+   }
+   .nine div{
+   	     padding-right: 0; 
+    	 padding-left: 0;
+    	 border: 1px solid white;
+   }
+   .fourth a {
+     margin: 0;
+    }
+    .nine p {
+      text-align: center;
+      margin: 0 auto;
+      
+     }
+    .nine h1{
+    	text-align: center
+    }
+     .k {
+    min-height: 180px;
+      }
+	   .seventh div{
+		min-height: 200px
+	   }
+     .fourth a{
+    margin-bottom: 10px
+     }
+     .seventh {
+    min-height: 230px;
+  }
+  .shat-nkarner>img{
+    height: 300px !important
+  }
+  }
+@media screen and  (max-width: 320px)
+{
+	.heart{
+		float: none 
+	}
+}
+@media screen and  (max-width: 900px)
+{
+  .ten div{
+    padding-top: 10px;
+    align-items: center;
+    display: flex;
+    flex-direction: column
+  }
+   .klor-nkar {
+    padding-top: 20px
+
+   }
+   .third h3 {
+    padding-top: 50px
+   }
+    .first h1 {
+    font-size: 58px;
+  }
+
+   .first h3 {
+    font-size: 40px
+  }
+  }
+@media screen and  (max-width: 1024px)
+{
+   .klor-nkar {
+    padding-top: 20px
+
+   }
+   .third h3 {
+    padding-top: 50px
+   }
+   .shat-nkarner{
+    padding-top: 20px
+   }
+   .first h1 {
+    font-size: 60px;
+  }
+  .first h3 {
+    font-size: 41px;
+  }
+
+  }
+  @media screen and  (max-width: 850px)
+{
+  .first h1 {
+    font-size: 39px;
+  }
+
+   .first h3 {
+    font-size: 28px
+  }
+}
